@@ -27,42 +27,41 @@ Status      : Building Real World Systems
 ---
 
 <div align="center">
-💀 ABOUT ME
+
+## 💀 ABOUT ME
+
 </div>
 
-I am a Data Scientist and Automation Developer focused on building real production systems, not just notebooks.
+<table>
+<tr>
+<td>
 
-I specialize in:
+### 🧠 Who I am (no fluff)
+I’m a **Data Scientist + Automation Developer** building **production-grade systems** — not demo notebooks.  
+My work is focused on **shipping automations, pipelines, ML services, and dashboards** that reduce manual work and create measurable business impact.
 
-Python automation
+</td>
+<td>
 
-Machine learning pipelines
+### ⚡ What I do best
+- **Python Automation** (Graph API, scheduling, reporting, orchestration)  
+- **Data Engineering** (ETL/ELT, validation, pipelines, storage)  
+- **MLOps** (reproducible training, packaging, Docker, CI style workflows)  
+- **ML/NLP** (feature engineering, modeling, evaluation, deployment-ready structure)  
+- **Dashboards & Analytics** (Power BI / Plotly / KPI monitoring)
 
-Data engineering systems
+</td>
+</tr>
+</table>
 
-Enterprise automation
+<div align="center">
 
-Dashboards & analytics
+<img src="https://img.shields.io/badge/Primary-Python%20%7C%20SQL-black?style=for-the-badge&logo=python&logoColor=red"/>
+<img src="https://img.shields.io/badge/Strength-Automation%20%7C%20Pipelines-black?style=for-the-badge&logo=githubactions&logoColor=red"/>
+<img src="https://img.shields.io/badge/Focus-MLOps%20%7C%20NLP-black?style=for-the-badge&logo=docker&logoColor=red"/>
 
-APIs and backend systems
+</div>
 
-I build end-to-end systems:
-
-Data Pipelines
-
-Machine Learning Models
-
-Automation Systems
-
-Web Scraping Infrastructure
-
-Dashboards
-
-APIs
-
-Enterprise Workflows
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=3&section=header" width="92%"/> </div>
 ---
 
 <div align="center">
@@ -115,8 +114,85 @@ Built ML and NLP systems
 ---
 
 <div align="center">
-🔥 FEATURED PROJECTS (CARDS)
-</div> <div align="center"> <a href="https://github.com/abhishekraj1305/MLOps"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=MLOps&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/abhishekraj1305/real-time-object-detection-streamlit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=real-time-object-detection-streamlit&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/abhishekraj1305/Machine-Learning-Projects"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/abhishekraj1305/Data-Analysis-and-Visualization-Project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=Data-Analysis-and-Visualization-Project&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=3&section=header" width="92%"/> </div>
+
+## 🔥 FEATURED PROJECTS (CARDS)
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Showcase-Production%20Projects-black?style=for-the-badge&logo=github&logoColor=red"/>
+<img src="https://img.shields.io/badge/Theme-Black%20%2B%20Red%20HUD-black?style=for-the-badge&logo=hackthebox&logoColor=red"/>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧪 MLOps Pipeline
+**Goal:** reproducible ML pipeline + Dockerized structure (production style)
+
+<a href="https://github.com/abhishekraj1305/MLOps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=MLOps&theme=tokyonight&hide_border=true" />
+</a>
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red"/>
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=red"/>
+<img src="https://img.shields.io/badge/MLOps-black?style=for-the-badge&logo=githubactions&logoColor=red"/>
+
+</td>
+<td align="center" width="50%">
+
+### 👁️ Real-Time Object Detection
+**Goal:** YOLO real-time detection with Streamlit UI (fast demo + deployable)
+
+<a href="https://github.com/abhishekraj1305/real-time-object-detection-streamlit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=real-time-object-detection-streamlit&theme=tokyonight&hide_border=true" />
+</a>
+
+<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge&logo=opencv&logoColor=red"/>
+<img src="https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit&logoColor=red"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-black?style=for-the-badge&logo=opencv&logoColor=red"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Machine Learning Projects
+**Goal:** curated ML experiments + models + learning builds (structured)
+
+<a href="https://github.com/abhishekraj1305/Machine-Learning-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=Machine-Learning-Projects&theme=tokyonight&hide_border=true" />
+</a>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikitlearn&logoColor=red"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=red"/>
+<img src="https://img.shields.io/badge/ML-black?style=for-the-badge&logo=pytorch&logoColor=red"/>
+
+</td>
+<td align="center" width="50%">
+
+### 📊 Data Analysis & Visualization
+**Goal:** analytics projects + visual storytelling + KPI style reporting
+
+<a href="https://github.com/abhishekraj1305/Data-Analysis-and-Visualization-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekraj1305&repo=Data-Analysis-and-Visualization-Project&theme=tokyonight&hide_border=true" />
+</a>
+
+<img src="https://img.shields.io/badge/EDA-black?style=for-the-badge&logo=plotly&logoColor=red"/>
+<img src="https://img.shields.io/badge/Visualization-black?style=for-the-badge&logo=plotly&logoColor=red"/>
+<img src="https://img.shields.io/badge/Analytics-black?style=for-the-badge&logo=powerbi&logoColor=red"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=3&section=header" width="92%"/>
+</div>
 
 ---
 

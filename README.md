@@ -1,30 +1,264 @@
-# 💫 About Me:
-🦄Unicorn Data Analyst in Training<br><br>passionate data professional with a strong Python, SQL, machine learning, and data visualization background. I have a proven track record of using data to solve real-world problems and generate business value.<br><br>In my previous roles as a data science intern at Data Knob and ACMEGRADE, I completed several projects that resulted in significant business impact. For example, I developed a web scraping script that collected data on over 100,000 real estate listings, which resulted in approximately $5,000 in revenue for new real estate development. I also developed an NLP Zomato rating prediction model that could predict restaurant ratings with an accuracy of 90%.<br><br>I am a highly motivated and results-oriented individual with a strong work ethic and a passion for tech and problem-solving. I am also able to communicate complex data insights clearly and concisely.
+<!-- =========================================================
+ABHISHEK RAJ | 4D CYBERPUNK AI ENGINEER PROFILE
+BLACK + RED TERMINAL STYLE
+========================================================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhishek.raj_arts/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekraj1305/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@r.abhishek1305) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/rabhishek1305/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Klutzy_Carrot_8743) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/17976438/abhishekraj1305?tab=profile) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:000000&height=230&section=header&text=ABHISHEK%20RAJ&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white&color=%23231F20) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishekraj1305&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekraj1305&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekraj1305&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=700&color=FF0000&center=true&vCenter=true&width=950&lines=AI%2FML+Engineer;Automation+Developer;Python+%7C+SQL+%7C+Data+Engineering;MLOps+Engineer;Building+Real+Production+Systems;Graph+API+Automation+Expert" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhishekraj1305&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhishekraj1305&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishekraj1305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 SYSTEM PROFILE
+
+```bash
+Name        : Abhishek Raj
+Role        : AI Engineer | Data Scientist | Automation Developer
+Experience  : Production Systems + Enterprise Automation
+Stack       : Python | SQL | ML | Automation | Cloud
+Focus       : MLOps | NLP | Automation | Data Engineering
+Status      : Building Real World Systems
+```
+
+---
+
+# 💀 ABOUT ME
+
+I am a **Data Scientist and Automation Developer** focused on building **real production systems**, not just notebooks.
+
+I specialize in:
+
+• Python automation  
+• Machine learning pipelines  
+• Data engineering systems  
+• Enterprise automation  
+• Dashboards and analytics  
+• APIs and backend systems  
+
+I design **end-to-end data systems**:
+
+- Data Pipelines
+- Machine Learning Models
+- Automation Systems
+- Web Scraping Infrastructure
+- Dashboards
+- APIs
+- Enterprise Workflows
+
+---
+
+# 🚀 REAL WORLD IMPACT
+
+## Enterprise Automation Platform
+
+Built **Python + Microsoft Graph API automation** used by **200+ employees**
+
+✔ Reduced manual work **90%**
+
+✔ Increased reporting accuracy **85%**
+
+✔ Improved productivity **30%**
+
+✔ Fully automated reporting workflows
+
+---
+
+## Web Scraping Infrastructure
+
+Built scraping infrastructure for **160+ global websites**
+
+✔ Azure VM deployment
+
+✔ Automated refresh pipelines
+
+✔ 95% uptime
+
+✔ Reduced manual work 95%
+
+---
+
+## Machine Learning Systems
+
+Built ML and NLP systems:
+
+✔ NLP rating prediction model
+
+✔ 90% accuracy achieved
+
+✔ Real estate data scraping
+
+✔ Analytics dashboards
+
+---
+
+# 🌐 PORTFOLIO
+
+### Main Portfolio
+
+https://abhishek-raj-ai-engineer-onnf91q.gamma.site/
+
+---
+
+# 🌐 CONNECT
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/abhishekraj1305/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/abhishek.raj_arts/)
+
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=red)](https://medium.com/@r.abhishek1305)
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-black?style=for-the-badge&logo=pinterest&logoColor=red)](https://in.pinterest.com/rabhishek1305/)
+
+[![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=red)](https://www.reddit.com/user/Klutzy_Carrot_8743)
+
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=red)](https://stackoverflow.com/users/17976438/abhishekraj1305)
+
+---
+
+# ⚙️ TECH STACK
+
+### Languages
+
+Python  
+SQL  
+PowerShell
+
+---
+
+### Data Stack
+
+Pandas  
+NumPy  
+Matplotlib  
+Plotly
+
+---
+
+### Machine Learning
+
+Scikit Learn  
+TensorFlow  
+PyTorch  
+Keras
+
+---
+
+### Data Engineering
+
+Azure  
+AWS  
+Spark  
+Kafka  
+Hive  
+Airflow
+
+---
+
+### Databases
+
+MySQL  
+SQL Server  
+MongoDB  
+SQLite
+
+---
+
+### Tools
+
+Git  
+Linux  
+Docker  
+VSCode  
+Jupyter
+
+---
+
+# 🔥 FEATURED PROJECTS
+
+## MLOps Pipeline
+
+https://github.com/abhishekraj1305/MLOps
+
+Production ML pipeline with Docker and automation.
+
+---
+
+## Real-Time Object Detection
+
+https://github.com/abhishekraj1305/real-time-object-detection-streamlit
+
+YOLO real-time object detection app.
+
+---
+
+## Machine Learning Projects
+
+https://github.com/abhishekraj1305/Machine-Learning-Projects
+
+Collection of ML experiments.
+
+---
+
+## Data Analysis Projects
+
+https://github.com/abhishekraj1305/Data-Analysis-and-Visualization-Project
+
+Analytics and visualization projects.
+
+---
+
+# 📊 GITHUB DASHBOARD
+
+![](https://github-readme-stats.vercel.app/api?username=abhishekraj1305&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekraj1305&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekraj1305&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+![](https://github-profile-trophy.vercel.app/?username=abhishekraj1305&theme=matrix)
+
+---
+
+# 🧠 CURRENT FOCUS
+
+• Machine Learning Engineering
+
+• MLOps Engineering
+
+• Automation Systems
+
+• Data Engineering
+
+• NLP
+
+• Production ML Systems
+
+---
+
+# ⚡ TERMINAL PHILOSOPHY
+
+```bash
+ship > hype
+
+code > talk
+
+automation > manual
+
+production > tutorials
+```
+
+---
+
+# 👁 VISITORS
+
+![](https://visitcount.itsvg.in/api?id=abhishekraj1305&icon=0&color=12)
+
+<!-- END -->
